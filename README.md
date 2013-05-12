@@ -34,6 +34,6 @@ You can also precompile the elisps files located in the vendor directory by addi
 
 # Sources extracted from
 
-http://www.emacswiki.org/emacs/dirtree.el
-http://www.emacswiki.org/emacs/tree-mode.el
-http://www.emacswiki.org/emacs/windata.el
+* http://www.emacswiki.org/emacs/dirtree.el
+* http://www.emacswiki.org/emacs/tree-mode.el
+* http://www.emacswiki.org/emacs/windata.el
